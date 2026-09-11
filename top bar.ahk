@@ -9,7 +9,7 @@ DetectHiddenWindows(true)
 ; ======================================================================
 ; CONFIG — edit these to taste
 ; ======================================================================
-NAME_TEXT        := "- ryuk"
+NAME_TEXT        := "NameHere"   ; put any name or any writing here
 NAME_W           := 90         ; reserve for the name; widen if yours clips
 TEXT_COLOR       := "ffffff"     ; pure white — maximum contrast on OLED
 DIM_COLOR        := "FFFFFF"
